@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+out/
+samples/
+results/
+
+# local notes from an earlier, unrelated project
+docs/sandbox-plan.md
